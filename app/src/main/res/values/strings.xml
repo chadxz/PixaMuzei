@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PixaMuzei</string>
+    <string name="name">PixaMuzei</string>
+    <string name="description">Photos from Pixabay</string>
+</resources>
